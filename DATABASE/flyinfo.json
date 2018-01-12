@@ -1,0 +1,74 @@
+  {
+    "MSK-VD-001": {
+      "Fly ID": "MSK-VD-001",
+      "Departure City": "Moscow",
+      "Arrival City": "Vladivostok",
+      "Departure Date": "2017-12-31T05:05:00.000Z",
+      "Arrival Date": "2017-12-31T10:05:00.000Z",
+      "Ticket Cost Ammaunt": 250,
+      "Ticket Cost Currency": "USD"
+    },
+    "VD-MSK-002": {
+      "Fly ID": "VD-MSK-002",
+      "Departure City": "Vladivostok",
+      "Arrival City": "Moscow",
+      "Departure Date": "2018-01-01T06:00:00.000Z",
+      "Arrival Date": "2018-01-01T16:00:00.000Z",
+      "Ticket Cost Ammaunt": 250,
+      "Ticket Cost Currency": "USD"
+    },
+    "MSK-SCH-001": {
+      "Fly ID": "MSK-SCH-001",
+      "Departure City": "Moscow",
+      "Arrival City": "Sochi",
+      "Departure Date": "2017-12-31T18:00:00.000Z",
+      "Arrival Date": "2017-12-31T21:00:00.000Z",
+      "Ticket Cost Ammaunt": 350,
+      "Ticket Cost Currency": "USD"
+    },
+    "SCH-MSK-002": {
+      "Fly ID": "SCH-MSK-002",
+      "Departure City": "Sochi",
+      "Arrival City": "Moscow",
+      "Departure Date": "2017-12-31T22:00:00.000Z",
+      "Arrival Date": "2018-01-01T01:00:00.000Z",
+      "Ticket Cost Ammaunt": 350,
+      "Ticket Cost Currency": "USD"
+    },
+    "MSK-NWY-001": {
+      "Fly ID": "MSK-NWY-001",
+      "Departure City": "Moscow",
+      "Arrival City": "New York",
+      "Departure Date": "2017-12-31T15:30:00.000Z",
+      "Arrival Date": "2018-01-01T03:00:00.000Z",
+      "Ticket Cost Ammaunt": 420,
+      "Ticket Cost Currency": "USD"
+    },
+    "NWY-MSK-001": {
+      "Fly ID": "NWY-MSK-001",
+      "Departure City": "New York",
+      "Arrival City": "Moscow",
+      "Departure Date": "2018-01-01T04:30:00.000Z",
+      "Arrival Date": "2018-01-01T14:30:00.000Z",
+      "Ticket Cost Ammaunt": 420,
+      "Ticket Cost Currency": "USD"
+    },
+    "MSK-TOK-001": {
+      "Fly ID": "MSK-TOK-001",
+      "Departure City": "Moscow",
+      "Arrival City": "Tokio",
+      "Departure Date": "2017-12-31T10:00:00.000Z",
+      "Arrival Date": "2017-12-31T16:00:00.000Z",
+      "Ticket Cost Ammaunt": 370,
+      "Ticket Cost Currency": "USD"
+    },
+    "TOK-MSK-001": {
+      "Fly ID": "TOK-MSK-001",
+      "Departure City": "Tokio",
+      "Arrival City": "Moscow",
+      "Departure Date": "2017-12-31T18:00:00.000Z",
+      "Arrival Date": "2018-01-01T00:00:00.000Z",
+      "Ticket Cost Ammaunt": 370,
+      "Ticket Cost Currency": "USD"
+    }
+  }
